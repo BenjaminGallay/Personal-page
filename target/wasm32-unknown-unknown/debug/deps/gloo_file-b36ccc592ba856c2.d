@@ -1,0 +1,11 @@
+/home/Benjamin/rust_projects/personal_page/target/wasm32-unknown-unknown/debug/deps/libgloo_file-b36ccc592ba856c2.rmeta: /home/Benjamin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-file-0.2.3/src/lib.rs /home/Benjamin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-file-0.2.3/src/blob.rs /home/Benjamin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-file-0.2.3/src/file_list.rs /home/Benjamin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-file-0.2.3/src/file_reader.rs /home/Benjamin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-file-0.2.3/src/object_url.rs
+
+/home/Benjamin/rust_projects/personal_page/target/wasm32-unknown-unknown/debug/deps/libgloo_file-b36ccc592ba856c2.rlib: /home/Benjamin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-file-0.2.3/src/lib.rs /home/Benjamin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-file-0.2.3/src/blob.rs /home/Benjamin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-file-0.2.3/src/file_list.rs /home/Benjamin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-file-0.2.3/src/file_reader.rs /home/Benjamin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-file-0.2.3/src/object_url.rs
+
+/home/Benjamin/rust_projects/personal_page/target/wasm32-unknown-unknown/debug/deps/gloo_file-b36ccc592ba856c2.d: /home/Benjamin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-file-0.2.3/src/lib.rs /home/Benjamin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-file-0.2.3/src/blob.rs /home/Benjamin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-file-0.2.3/src/file_list.rs /home/Benjamin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-file-0.2.3/src/file_reader.rs /home/Benjamin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-file-0.2.3/src/object_url.rs
+
+/home/Benjamin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-file-0.2.3/src/lib.rs:
+/home/Benjamin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-file-0.2.3/src/blob.rs:
+/home/Benjamin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-file-0.2.3/src/file_list.rs:
+/home/Benjamin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-file-0.2.3/src/file_reader.rs:
+/home/Benjamin/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-file-0.2.3/src/object_url.rs:
